@@ -1,0 +1,6 @@
+@LibCafeApp_HostAddress = http://localhost:5137
+
+GET {{LibCafeApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
